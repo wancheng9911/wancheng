@@ -6,7 +6,7 @@
   * [无敌艾门](https://github.com/YSGStudyHards)
   * [知乎地址](https://www.zhihu.com/people/ysgdaydayup)
   * [掘金地址](https://juejin.cn/user/2770425031690333/posts)
-  * [Gitee地址](https://gitee.com/ysgdaydayup)
+  * [Gitee地址](https://gitee.com/wancheng6666/ffcs)
 
 
 * 友情链接
